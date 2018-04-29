@@ -1,4 +1,5 @@
 package cucumberTest;
+/* Test comment */
 
 import org.junit.runner.RunWith;
 
